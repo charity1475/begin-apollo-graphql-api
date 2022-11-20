@@ -3,6 +3,6 @@
   "dependencies": {
     "@architect/functions": "latest",
     "apollo-server-lambda": "2.20.0",
-    "graphql": "15.5.0"
+    "graphql": "15.8.0"
   }
 }
