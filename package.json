@@ -12,6 +12,6 @@
     "cross-env": "7.0.3",
     "tap-spec": "5.0.0",
     "tape": "5.1.1",
-    "tiny-json-http": "7.3.0"
+    "tiny-json-http": "7.5.1"
   }
 }
